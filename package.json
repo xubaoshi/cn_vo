@@ -1,0 +1,23 @@
+{
+  "name": "echart-drop-dill",
+  "version": "1.0.0",
+  "description": "echarts learn",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server  --port 8081"
+  },
+  "keywords": [
+    "echarts",
+    "learn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^3.6.1",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
